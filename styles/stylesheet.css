@@ -1,0 +1,129 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#head1 {
+	text-align: center; /* centré */
+	color: #F60505;
+	font-family: "Agency FB", Calibri, "Californian FB", serif
+	
+		
+		
+	
+}
+body {
+	margin:0;
+}
+p {
+	font-size:13px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	line-height:25px;
+	margin-top:25px;
+}
+.bottomlinks {
+	font-size:11px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	text-align:center;
+}
+li {
+	font-size:13px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	margin-top:10px;
+}
+#contenttop {
+	background-image: url(../images/content-top.gif);
+	height: 40px;
+	width: 740px;
+	margin-top: 35px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	overflow: hidden;
+}
+#contentmid {
+	background-image: url(../images/content-mid.gif);
+	background-repeat: repeat-y;
+	height: auto;
+	width: 620px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding-right: 60px;
+	padding-left: 60px;
+	overflow: hidden;
+}
+#contentbottom {
+	background-image: url(../images/content-bottom.gif);
+	height: 40px;
+	width: 740px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 25px;
+	margin-left: auto;
+	overflow: hidden;
+}
+.textfield {
+	background-image: url(../images/textfield.png);
+	height: 42px;
+	width: 205px;
+	padding-left: 5px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}
+.submit-button {
+	background-image: url("../images/submit-button4.png");
+	height: 42px;
+	width: 199px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	margin-top: 5px;
+	max-width: 100%;
+}
+#left-column {
+	float: left;
+	height: auto;
+	width: 350px;
+	font-family: "Agency FB", Calibri, "Californian FB", serif
+	
+	
+}
+#right-column {
+	float: left;
+	height: auto;
+	width: 248px;
+	margin-left: 22px;
+	background-color: #eeeeee;
+	font-family: "Agency FB", Calibri, "Californian FB", serif
+	}
+	#right-column2 {
+	float: left;
+	height: auto;
+	width: 248px;
+	margin-left: 22px;
+	
+}
+#section {
+	height: auto;
+	width: 550px;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	clear: both;
+	display: block;
+	font-family: "Agency FB", Calibri, "Californian FB", serif
+}
+#bottomtext {
+	height: auto;
+	width: 550px;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	clear: both;
+	display: block;
+	font-family: "Agency FB", Calibri, "Californian FB", serif
+}
+
